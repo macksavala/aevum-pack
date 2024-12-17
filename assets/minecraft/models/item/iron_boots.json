@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_boots"
+    },
+    "overrides": [
+        {
+            "predicate": {"custom_model_data": 9918290},
+            "model": "item/armor/copper_boots"
+        }
+    ]
+}
